@@ -25,7 +25,7 @@ Project is created with:
 
 
 ## code
-* https://github.com/AltwilMohammed/Automatic-Street-light-using-8051-microcontroller/blob/main/atstreet.c
+* https://github.com/AltwilMohammed/SMART-SECURITY-SYSTEM/blob/main/finalcode.ino
 
 
 
